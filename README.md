@@ -13,8 +13,8 @@
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Kortez#5064`](https://discord.com/users/139836912335716352)
 
 ### Tools and Languages
-<code><img height="20" src="http://degenerateconic.com/wp-content/uploads/2018/06/fortran2.png"></code>
-<code><img height="20" src="https://logodix.com/logo/732150.png"></code>
+<code><img height="20" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png"></code>
+<code><img height="20" src="https://www.eclipse.org/downloads/images/parallel.png"></code>
 
 
 ### 👁 Statistics 
