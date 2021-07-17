@@ -1,17 +1,29 @@
-- 👋 Hi, I’m @Kortez-Dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Kortez</h1>
+<h3 align="center">Im a German Developer and I recently started coding with Fortran!</h3>
 
-<!---
-Kortez-Dev/Kortez-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kortez-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kortez-dev" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kortez-Dev&show_icons=true&theme=tokyonight)
+- 🔭 I’m currently working on [Learning Fortran](https://github.com/users/Kortez-Dev/projects/3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kortez-Dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **Fortran90**
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kortez-Dev&repo=foersterdreieck&theme=tokyonight)
+##How to connect with me:
+
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : oleknu@outlook.de
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Kortez#5064`](https://discord.com/users/139836912335716352)
+
+
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Kortez-Dev&show_icons=true&theme=tokyonight" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kortez-Dev&layout=compact&theme=tokyonight" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kortez-Dev&repo=foersterdreieck&theme=tokyonight" />
+  </tr>
+</table>
 
