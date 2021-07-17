@@ -1,4 +1,4 @@
-<img src="hthttps://d1itmove024qgx.cloudfront.net/718c8b65da97203e7752d7383ae8242996f97f1d.jpg" />
+<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
 
 <h1 align="center">Hi 👋, I'm Kortez</h1>
 <h3 align="center">Im a German Developer and I recently started coding with Fortran!</h3>
