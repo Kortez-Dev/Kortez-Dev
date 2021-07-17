@@ -1,4 +1,4 @@
-<img src="https://t4.ftcdn.net/jpg/02/56/08/71/240_F_256087105_soj5CPi4548omzYQ4omADknhIyrlBsVt.jpg"/>
+<img src="https://t4.ftcdn.net/jpg/02/56/08/71/240_F_256087105_soj5CPi4548omzYQ4omADknhIyrlBsVt.jpghttp://i.imgur.com/lnc5aWx.png" />
 
 <h1 align="center">Hi 👋, I'm Kortez</h1>
 <h3 align="center">Im a German Developer and I recently started coding with Fortran!</h3>
