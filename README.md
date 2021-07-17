@@ -1,4 +1,4 @@
-<img src="hthttps://d1itmove024qgx.cloudfront.net/718c8b65da97203e7752d7383ae8242996f97f1d.jpg">
+<img src="hthttps://d1itmove024qgx.cloudfront.net/718c8b65da97203e7752d7383ae8242996f97f1d.jpg" />
 
 <h1 align="center">Hi 👋, I'm Kortez</h1>
 <h3 align="center">Im a German Developer and I recently started coding with Fortran!</h3>
@@ -16,7 +16,7 @@
 
 ### Tools and Languages
 <code><img height="20" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png"></code>
-<code><img height="20" src="https://clipartart.com/images/eclipse-logo-clipart-7.jpg"></code>
+<code><img height="20" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"></code>
 
 
 ### 👁 Statistics 
