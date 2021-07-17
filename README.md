@@ -7,12 +7,13 @@
 
 - 🌱 I’m currently learning **Fortran90**
 
-##How to connect with me:
+### How to connect with me:
 
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : oleknu@outlook.de
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Kortez#5064`](https://discord.com/users/139836912335716352)
 
 
+### 👁 Statistics 
 
 <table>
   <tr>
