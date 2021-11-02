@@ -32,10 +32,6 @@
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kortez-Dev&repo=foersterdreieck&theme=tokyonight" />
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
   </tr>
 </table>
 
