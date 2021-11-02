@@ -18,6 +18,8 @@
 <code><img height="20" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/mps/img/meta/mps_logo_300x300.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
 
 
 ### 👁 Statistics 
