@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kortez-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kortez-dev" /> </p>
 
-- 🔭 I’m currently working on [Learning Fortran](https://github.com/users/Kortez-Dev/projects/3)
+- 🔭 I’m currently working with Ruby and Java
 
-- 🌱 I’m currently learning **Fortran90**
+- 🌱 I’m currently learning **Ruby**
 
 ### How to connect with me:
 
@@ -20,7 +20,9 @@
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/mps/img/meta/mps_logo_300x300.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
-
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.aMLy_iQZflsdCOBzZxxMyQHaHa%26pid%3DApi&f=1"></code>
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.4yMs-5ioEM7ms0VvXHfhxAHaHa%26pid%3DApi&f=1"></code>
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.f8pP40hj59w6QkRDs9nOaAHaHa%26pid%3DApi&f=1"></code>
 
 ### 👁 Statistics 
 
